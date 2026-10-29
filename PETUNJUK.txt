@@ -1,0 +1,16 @@
+WEBSITE CV PRIBADI - FAUZAN MISRA AL MUHAMMADI
+
+Isi folder:
+- index.html : halaman utama CV
+- style.css  : desain dan tata letak
+- foto-profil.jpg : foto profil yang diberikan
+
+CARA MENJALANKAN:
+1. Ekstrak file ZIP.
+2. Buka folder cv_pribadi.
+3. Klik dua kali index.html, lalu buka dengan browser.
+
+PERIKSA SEBELUM DIKUMPULKAN:
+1. Pastikan data program studi, email, Instagram, pengalaman, dan keterampilan sudah benar.
+2. Tahun pendidikan universitas ditampilkan mulai 2024. Tahun lulus SMA/MA ditampilkan 2024 sesuai informasi yang diberikan; ubah jika maksud tahun berbeda.
+3. Website dibuat menggunakan HTML dan CSS tanpa framework CSS.
